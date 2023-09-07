@@ -2,7 +2,6 @@
 
 # A defanged IP address replaces every period "." with "[.]".
 
- 
 
 # Example 1:
 
